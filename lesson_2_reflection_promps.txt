@@ -8,11 +8,13 @@ the staging area is the middleman between the working directory and the reposito
 What value do you think it offers?
 It makes it so i only have to commit things that i want to  commit
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+because it allows you to see all changes made then you can see each logical change
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+they would be helpful if i wanted to try new features or add new things without directly impact the final copy
+
 
 How do the diagrams help you visualize the branch structure?
 
